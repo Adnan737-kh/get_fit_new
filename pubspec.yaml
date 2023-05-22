@@ -1,0 +1,65 @@
+name: get_fit_new
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.5 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  countdown: ^0.1.0
+  intl: ^0.18.0
+  percent_indicator: ^4.2.2
+  flutter_bloc: ^8.1.1
+  equatable: ^2.0.5
+  wave: ^0.2.2
+  easy_dialog: ^1.1.1
+  admob_flutter: ^3.0.0
+  gradient_widgets: ^0.6.0
+  url_launcher: ^6.1.8
+  flutter_share: ^2.0.0
+  package_info_plus: ^3.0.2
+  flutter_launcher_icons: ^0.11.0
+  change_app_package_name: ^1.1.0
+  shared_preferences: ^2.0.17
+  google_mobile_ads: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+    - images/home_new.png
+    - images/withequipment_button_new.png
+    - images/withoutequipment_button_new.png
+    - images/day_seven_new.png
+    - images/hipsandthighs_btn.png
+    - images/flatbelly_meal.png
+    - images/infoIcon.png
+    - images/body_nav_background.png
+    - images/circle-icon.png
+    - images/splash-screenfor-android.png
+    - images/icon.png
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-Black.ttf
+        - asset: fonts/Lato-Bold.ttf
+          weight: 700
+
+    - family: Inter
+      fonts:
+        - asset: fonts/Inter-VariableFont_slnt,wght.ttf
+
