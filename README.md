@@ -45,23 +45,16 @@ lib/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/get-fit-app.git
-```
+git clone https://github.com/Adnan737-kh/get_fit_new.git
 
-2. Navigate to project:
-```bash
-cd get-fit-app
-```
+
 
 3. Get dependencies:
-```bash
 flutter pub get
-```
 
 4. Run the app:
-```bash
 flutter run
-```
+
 
 ## 🔑 Requirements
 
@@ -74,9 +67,8 @@ flutter run
 - 📈 Workout analytics
 - 👤 User profiles
 - ☁️ Cloud sync
-- 🍎 Meal plans integration
 
-## 👨‍💻 Developer
+# 👨‍💻 Developer
 
 Adnan Malik  
 Flutter Developer
